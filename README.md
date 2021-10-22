@@ -1,12 +1,8 @@
 # sound_record_play
 
-Learning [Flutter sound] (https://github.com/Canardoux/flutter_sound)
-
-this project created to learn,  how to Record, play, pause, resume
+This project created to learn,  how to Record, play, pause, resume in adroid and web using [Flutter sound](https://github.com/Canardoux/flutter_sound)
 
 
 ## Getting Started
 
-#flutter run
-
-[Example] (example.png)
+![Example](example.png)
